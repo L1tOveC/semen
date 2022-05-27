@@ -11,3 +11,6 @@
 # Снова я ♂fuckin' cummin'♂, снова говорю «♂fuck you!♂»
 # Мы с тобой не будем никогда, ♂play with dick♂, никогда
 print('slave')
+fewfew = input()
+
+few = int
